@@ -1,3 +1,4 @@
 {
-    "python.linting.pylintEnabled": false
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "C:\\Users\\nvish\\AppData\\Local\\Continuum\\miniconda3\\envs\\nlp\\python.exe"
 }
